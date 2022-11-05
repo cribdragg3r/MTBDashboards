@@ -92,12 +92,12 @@ Conundrum,Green,Theodore Wirth Park,"2,385",545,407,"1,430",0.45170469,0.0770833
 CONUNDRUM,Blue,Theodore Wirth Park,"2,785","1,286","1,109",377,0.52746229,0.210037946,0.243560684,0.071401538
 Glenwood Loop,Blue,Theodore Wirth Park,"3,819","1,604","1,559",656,0.723295686,0.29526524600000004,0.303787976,0.12424246400000001
 Greenwood Connector,Blue,Theodore Wirth Park,49,25,0,24,0.009280306,0.0,0.0047348500000000005,0.004545456
-Parking Access,Access Trail or Doubletrack,Theodore Wirth Park,486,0,79,374,0.09204548400000001,0.014962126000000001,0.0,0.070833356
 Parking Access,Access Trail or Doubletrack,Theodore Wirth Park,784,305,194,282,0.148484896,0.036742436,0.057765170000000005,0.053409108000000004
+Parking Access,Access Trail or Doubletrack,Theodore Wirth Park,486,0,79,374,0.09204548400000001,0.014962126000000001,0.0,0.070833356
 Parking Access 2,Access Trail or Doubletrack,Theodore Wirth Park,125,0,33,0,0.02367425,0.006250002,0.0,0.0
-Skyline/Dingo Access,Blue,Theodore Wirth Park,394,0,0,0,0.07462123600000001,0.0,0.0,0.0
 Skyline/Dingo Access,Blue,Theodore Wirth Park,156,156,0,0,0.029545464,0.0,0.029545464,0.0
 Skyline/Dingo Access,Green,Theodore Wirth Park,137,0,99,38,0.025946978000000002,0.018750006,0.0,0.007196972
+Skyline/Dingo Access,Blue,Theodore Wirth Park,394,0,0,0,0.07462123600000001,0.0,0.0,0.0
 South Loop,Green,Theodore Wirth Park,"3,172",980,765,"1,427",0.600757768,0.14488641000000002,0.18560612,0.270265238
 Spaghetti Berms Bypass,Green,Theodore Wirth Park,102,39,63,0,0.019318188,0.011931822,0.007386366,0.0
 SW Loop,Blue,Theodore Wirth Park,"8,363","3,228","3,694","1,437",1.5839020220000002,0.699621436,0.611363832,0.272159178
@@ -116,3 +116,44 @@ Flat Prairie Loop,Green,Xcel Energy Mountain Bike Park,"1,306",105,151,991,0.247
 Intermediate Loop,Blue,Xcel Energy Mountain Bike Park,"6,220",938,"1,079","4,154",1.17803068,0.204356126,0.177651572,0.786742676
 Jump Line Ride Around,Blue,Xcel Energy Mountain Bike Park,236,0,0,0,0.044696984,0.0,0.0,0.0
 Lake Trail,Green,Xcel Energy Mountain Bike Park,"7,434",896,"1,335","4,944",1.4079549960000002,0.25284099,0.169697024,0.936363936
+Boardwalk Shimmy / Skinny Shimmy,Black Diamond,Carver Lake Park,811,382,189,240,0.153598534,0.035795466000000005,0.072348508,0.045454560000000005
+Challenge Bypass,Green,Carver Lake Park,205,73,94,38,0.03882577,0.017803036,0.013825762,0.007196972
+Controlled Berm,Blue,Carver Lake Park,"6,028","2,587","2,252","1,189",1.141667032,0.42651528800000005,0.48996227800000003,0.225189466
+East Loop (Back),Blue,Carver Lake Park,"4,012","1,017","1,352","1,644",0.759848728,0.25606068800000004,0.192613698,0.311363736
+East Loop (Out),Blue,Carver Lake Park,"7,901","2,667","3,196","2,038",1.4964019940000002,0.605303224,0.505113798,0.38598497200000004
+Root Bypass,Green,Carver Lake Park,150,61,90,0,0.028409100000000003,0.017045460000000002,0.011553034,0.0
+Shore Shimmy,Blue,Carver Lake Park,"2,200",748,"1,035",404,0.4166668,0.19602279,0.141666712,0.076515176
+Shore Shimmy,Blue,Carver Lake Park,"4,929","1,999","2,131",800,0.933523026,0.403598614,0.378598606,0.15151520000000002
+Dakota Rail Trail (Lake Minnetonka),White,Monarch - Carver Park Reserve,"68,990","32,375","20,151","16,463",13.06629206,3.816478494,6.13163075,3.117993422
+Easy Rider,Green,Monarch - Carver Park Reserve,"5,876","1,535","1,608","2,703",1.112879144,0.304545552,0.29071979000000003,0.511931982
+Grimm's Grind,Blue,Monarch - Carver Park Reserve,"11,503","2,841","2,828","5,833",2.178599182,0.535606232,0.5380683540000001,1.104735202
+Lake Minnetonka LRT Regional,White,Monarch - Carver Park Reserve,"85,354","29,629","32,913","22,530",16.165535476000002,6.233524722,5.611554826,4.26704682
+Lowry Nature Center,White,Monarch - Carver Park Reserve,"2,201",272,866,994,0.416856194,0.164015204,0.051515168,0.188257636
+Paradise,Black Diamond,Monarch - Carver Park Reserve,"9,600","4,127","3,235","2,080",1.8181824000000002,0.61268959,0.781629038,0.39393952000000004
+Paradise Feature,Double Black Diamond,Monarch - Carver Park Reserve,466,0,381,85,0.088257604,0.07215911400000001,0.0,0.01609849
+Paved Connector,White,Monarch - Carver Park Reserve,"14,505","5,489","6,919","2,096",2.7471599700000002,1.3104170860000002,1.039583666,0.396969824
+Paved South,White,Monarch - Carver Park Reserve,"8,957","3,543","3,150","2,264",1.696402058,0.5965911,0.671022942,0.42878801600000005
+Raptor Ridge,Blue,Monarch - Carver Park Reserve,"10,561","3,980","3,704","2,805",2.000190034,0.701515376,0.7537881200000001,0.5312501700000001
+Ravine Rush (Middle),Blue,Monarch - Carver Park Reserve,"3,186","1,168","1,024",994,0.603409284,0.193939456,0.221212192,0.188257636
+Ravine Rush (North),Blue,Monarch - Carver Park Reserve,"3,383",869,"1,401",981,0.6407199020000001,0.265340994,0.164583386,0.18579551400000002
+Ravine Rush (South),Blue,Monarch - Carver Park Reserve,"2,936","1,253","1,240",446,0.556060784,0.23484856,0.23731068200000002,0.08446972400000001
+Sunny Lake Loop,White,Monarch - Carver Park Reserve,"22,126","7,963","6,270","7,894",4.190531644,1.1875003800000001,1.508144422,1.495076236
+Cedar Bridge Crossing,Access Trail or Doubletrack,Minnesota River Bottoms,"1,748",405,681,444,0.33106071200000003,0.128977314,0.07670457,0.084090936
+Minnesota River Bottoms - Hopkins Road Access Alternate,Green,Minnesota River Bottoms,417,0,72,0,0.078977298,0.013636368000000001,0.0,0.0
+Normandale Boulevard Access Trail,White,Minnesota River Bottoms,965,0,965,0,0.18276521,0.18276521,0.0,0.0
+River Bottoms - Sibley House/Mendota to Cedar Bridge,Green,Minnesota River Bottoms,"30,364","5,322","3,645","21,394",5.750759416,0.6903411300000001,1.0079548680000001,4.051895236
+River Valley Trail - 102nd Street Access,Green,Minnesota River Bottoms,561,0,459,102,0.10625003400000001,0.08693184600000001,0.0,0.019318188
+River Valley Trail - 102nd Street Loop,Green,Minnesota River Bottoms,801,322,62,420,0.151704594,0.011742428000000001,0.060984868000000005,0.07954548
+River Valley Trail - 11th Avenue Spur,Green,Minnesota River Bottoms,794,49,745,0,0.15037883600000002,0.14109853,0.009280306,0.0
+River Valley Trail - East Segment,Green,Minnesota River Bottoms,"13,743","4,728","5,115","3,901",2.6028417420000003,0.96875031,0.8954548320000001,0.738825994
+River Valley Trail - Hopkins Road Access Main,Green,Minnesota River Bottoms,922,0,922,0,0.174621268,0.174621268,0.0,0.0
+River Valley Trail - HWY 77/Cedar Segment,Green,Minnesota River Bottoms,"16,988","2,572","6,972","7,444",3.2174252720000003,1.3204549680000002,0.487121368,1.4098489360000002
+River Valley Trail - Lyndale Alternate,Green,Minnesota River Bottoms,"1,050","1,050",0,0,0.1988637,0.0,0.1988637,0.0
+River Valley Trail - Mission Loop Alternate,Blue,Minnesota River Bottoms,837,0,784,52,0.158522778,0.148484896,0.0,0.009848488
+River Valley Trail - Pond-Dakota Mission East,Blue,Minnesota River Bottoms,778,0,778,0,0.147348532,0.147348532,0.0,0.0
+River Valley Trail - Pond-Dakota Mission West,Green,Minnesota River Bottoms,"1,483",0,"1,421",66,0.280871302,0.269128874,0.0,0.012500004
+River Valley Trail - River Loop Alternate,Green,Minnesota River Bottoms,"1,257",282,541,433,0.238068258,0.102462154,0.053409108000000004,0.082007602
+River Valley Trail - Tree Loop Alternate,Green,Minnesota River Bottoms,472,0,154,167,0.089393968,0.029166676000000002,0.0,0.031628798
+River Valley Trail - West Segment,Green,Minnesota River Bottoms,"34,039","2,976","9,570","21,490",6.446782366000001,1.81250058,0.5636365440000001,4.07007706
+Shakopee Connector,White,Minnesota River Bottoms,"10,052","2,490","1,670","5,764",1.903788488,0.31628798,0.47159106,1.0916670160000002
+West End B-line,Green,Minnesota River Bottoms,"3,383",184,935,"2,119",0.6407199020000001,0.17708339,0.034848496,0.401325886
