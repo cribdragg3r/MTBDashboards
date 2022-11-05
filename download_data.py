@@ -15,11 +15,6 @@ region_to_id_map = {
     "xcel-energy-mountain-bike-park-50624": "50624"
 }
 
-test = {
-    "battle-creek-5538": "5538", 
-    "west-lake-marion-park": "20367", 
-}
-
 tf_region = TrailforksRegion(username=USERNAME, password=PASSWORD)
 tf_region.login()
 
@@ -35,6 +30,6 @@ for region, region_id in region_to_id_map.items():
     pbar.update(1)
 pbar.close()
 
-pd.concat(trails_files_dfs).to_csv("region_trails.csv", index=False)
-pd.concat(trail_ridecounts_dfs).to_csv("region_ridecounts.csv")
-pd.concat(trail_ridelogs_dfs).to_csv("region_ridelogs.csv")
+pd.concat(trails_files_dfs).to_csv("data/region_trails.csv", index=False)
+pd.concat(trail_ridecounts_dfs).to_csv("data/region_ridecounts.csv")
+pd.concat(trail_ridelogs_dfs).to_csv("data/region_ridelogs.csv")
