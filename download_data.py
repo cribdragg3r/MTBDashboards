@@ -3,8 +3,8 @@ from PyForks.user import User
 import pandas as pd
 from tqdm import tqdm
 
-USERNAME = "mnmtb"
-PASSWORD = "8AjsoS8R!szAX8#4%SrwF*"
+USERNAME = ""
+PASSWORD = ""
 
 region_to_id_map = {
     "battle-creek-5538": "5538", 
@@ -27,9 +27,9 @@ trail_ridelogs_dfs = []
 
 pbar = tqdm(total=len(region_to_id_map))
 for region, region_id in region_to_id_map.items():
-    trails_files_dfs.append(tf_region.download_all_region_trails(region, region_id))
-    trail_ridelogs_dfs.append(tf_region.download_all_region_ridelogs(region))
-    trail_ridecounts_dfs.append(tf_region.download_region_ridecounts(region))
+    trails_files_dfs.append(tf_region.get_all_region_trails(region, region_id))
+    trail_ridelogs_dfs.append(tf_region.get_all_region_ridelogs(region))
+    trail_ridecounts_dfs.append(tf_region.get_region_ridecounts(region))
     pbar.update(1)
 pbar.close()
 

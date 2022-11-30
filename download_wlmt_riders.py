@@ -2,14 +2,15 @@ import pandas as pd
 from tqdm import tqdm
 from pprint import pprint
 from concurrent.futures import as_completed, ThreadPoolExecutor
-from PyForks.trailforks_user import TrailforksUser
-from PyForks.trailforks_region import TrailforksRegion
+from PyForks.user import User
+from PyForks.region import Region
+import PyForks.exceptions
 
 
-USERNAME = "mnmtb"
+USERNAME = ""
 PASSWORD = ""
 
-tf_user = TrailforksUser(username=USERNAME, password=PASSWORD)
+tf_user = User(username=USERNAME, password=PASSWORD)
 tf_user.login()
 
 def run_job(users: list) -> list:
@@ -21,8 +22,10 @@ def run_job(users: list) -> list:
         pbar.update(1)
         
     for thread in as_completed(thread_list):
-        results.append(thread.result())
-
+        try:
+            results.append(thread.result())
+        except PyForks.exceptions.InvalidUser as e:
+            pass
     pbar.close()
     return results
 
